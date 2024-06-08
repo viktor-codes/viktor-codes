@@ -1,6 +1,4 @@
-
-
-## Hi there!🖖 I'm Viktor Rura
+## Hi there!🖖 I'm Viktor Rura 👨‍💼
 
 ### 🚀 Full Stack Developer who thrives in the chaos.
 
