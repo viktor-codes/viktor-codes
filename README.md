@@ -8,6 +8,8 @@
 
 📢 I speak both front-end and back-end languages, making me the ultimate translator for your web app dreams.
 
+### ⚡ Fun Fact
+
 When I'm not coding, you might find me kitesurfing across waves 🏄🏻‍♂️, freediving with the fishes 🐡, or busting a move on the dance floor🕺🏻.
 
 Oh, and I also have a knack for capturing epic moments as a photographer 📸(because some problems are best solved with a lens, not code).
@@ -28,6 +30,3 @@ Oh, and I also have a knack for capturing epic moments as a photographer 📸(be
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/viktor-codes](https://www.linkedin.com/in/viktor-codes)
-
-### ⚡ Fun Fact
-When I'm not coding, you can find me exploring the great outdoors, playing video games, or experimenting with new recipes in the kitchen.
