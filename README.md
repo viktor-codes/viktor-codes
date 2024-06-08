@@ -1,6 +1,6 @@
 ## Hi there!🖖 I'm Viktor Rura 👨‍💼
 
-### 🚀 Full Stack Developer who thrives in the chaos.🌪️
+### 🚀 Full Stack Developer who thrives in the chaos.
 
 🏙️ By day, I build scalable web apps that can handle the ever-changing tides of the internet, no matter how many users come crashing in.
 
