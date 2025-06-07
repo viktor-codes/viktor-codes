@@ -17,10 +17,10 @@ Oh, and I also have a knack for capturing epic moments as a photographer 📸 (b
 ## 🛠️ Technologies & Tools
 
 ### Backend
-Django • DRF • FastAPI • Node.js
+Python • Django • DRF • FastAPI • Node.js
 
 ### Frontend
-JavaScript • React • Next • HTML5 • CSS3 • Tailwind CSS
+JavaScript • React & Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### Databases
 PostgreSQL • MongoDB • SQLAlchemy 
@@ -32,7 +32,7 @@ Docker • AWS • Azure • Heroku • Git • GitHub
 UnitTest • Pytest • Jest 
 
 ### Web Scraping
-BeautifulSoup • Scrapy • Selenium • Playwrite • Puppeteer
+BeautifulSoup • Scrapy • Selenium • Playwright • Puppeteer
 
 ## 🌟 Highlights
 
