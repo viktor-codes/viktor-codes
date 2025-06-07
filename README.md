@@ -40,6 +40,7 @@ BeautifulSoup • Scrapy • Selenium • Playwright • Puppeteer
 ## 🌟 Highlights
 
 - **Projects:** Developed a variety of full-stack applications ranging from e-commerce platforms to real-time chat applications
+- **API Development:** Built scalable RESTful APIs with JWT authentication, proper HTTP status handling, and comprehensive documentation using OpenAPI/Swagger standards.
 - **Problem Solving:** Participated in numerous coding challenges and hackathons, often placing in top positions
 - **Continuous Learning:** Always exploring new technologies and best practices to stay at the forefront of the industry
 
