@@ -16,20 +16,23 @@ Oh, and I also have a knack for capturing epic moments as a photographer 📸 (b
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-React • JavaScript • HTML5 • CSS3 • Sass • Tailwind CSS
-
 ### Backend
-Django • Flask • Node.js
+Django • DRF • FastAPI • Node.js
+
+### Frontend
+JavaScript • React • Next • HTML5 • CSS3 • Tailwind CSS
 
 ### Databases
-MongoDB • MySQL • PostgreSQL • SQLite
+PostgreSQL • MongoDB • SQLAlchemy 
 
 ### DevOps & Tools
-Docker • Kubernetes • AWS • Azure • Heroku • Git • GitHub
+Docker • AWS • Azure • Heroku • Git • GitHub
 
 ### Testing
-Jest • Mocha • Chai • Cypress
+UnitTest • Pytest • Jest 
+
+### Web Scraping
+BeautifulSoup • Scrapy • Selenium • Playwrite • Puppeteer
 
 ## 🌟 Highlights
 
@@ -42,6 +45,26 @@ Jest • Mocha • Chai • Cypress
 ![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-codes&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-codes&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viktor-codes&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viktor-codes&theme=github-compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=viktor-codes&color=blue)
+
+![Repositories](https://github-readme-stats.vercel.app/api?username=viktor-codes&show_icons=true&count_private=true&theme=dark)
+
+![Commits this year](https://github-readme-stats.vercel.app/api?username=viktor-codes&show=commits&theme=dark)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=viktor-codes&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-codes&langs_count=8&theme=dark&layout=compact)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=viktor-codes&theme=darkhub&margin-w=15&margin-h=15)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Kitesurfer+%26+Photographer;Always+learning+new+things)
+
+![Snake animation](https://github.com/viktor-codes/viktor-codes/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚧 Currently Working On
 
