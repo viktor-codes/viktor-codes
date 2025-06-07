@@ -16,11 +16,14 @@ Oh, and I also have a knack for capturing epic moments as a photographer 📸 (b
 
 ## 🛠️ Technologies & Tools
 
+### Languages
+Python • JavaScript • TypeScript 
+
 ### Backend
-Python • Django • DRF • FastAPI • Node.js
+Django • DRF • FastAPI • Node.js
 
 ### Frontend
-JavaScript • React & Next.js • HTML5 • CSS3 • Tailwind CSS
+React/Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### Databases
 PostgreSQL • MongoDB • SQLAlchemy 
